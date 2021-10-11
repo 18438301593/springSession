@@ -1,0 +1,10 @@
+server:
+  port: 8801
+  servlet:
+    context-path: /pa
+spring:
+  redis:
+    host: 192.168.183.131
+    port: 6379
+    password: 123456
+    database: 0

@@ -1,0 +1,11 @@
+server:
+  port: 8802
+  servlet:
+    context-path: /pb
+
+spring:
+  redis:
+    host: 192.168.183.131
+    port: 6379
+    password: 123456
+    database: 0
